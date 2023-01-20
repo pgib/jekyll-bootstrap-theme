@@ -45,5 +45,5 @@ bootstrap:
 # Build settings
 theme: jekyll-bootstrap-theme
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
+  #- jekyll-feed
